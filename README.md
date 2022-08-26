@@ -1,5 +1,5 @@
 Coverage: 34%
-Inventory Nanagement System
+Inventory Management System
 
 A functional web application designed to allow clients to manage their inventory, with CRUD functionality. The user is able to Create, Update, Read, and Delete items, orders, and customers.
 
