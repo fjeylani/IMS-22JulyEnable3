@@ -1,7 +1,7 @@
 Coverage: 34%
-# Project Title
+Inventory Nanagement System
 
-One Paragraph of project description goes here
+A functional web application designed to allow clients to manage their inventory, with CRUD functionality. The user is able to Create, Update, Read, and Delete items, orders, and customers.
 
 ## Getting Started
 
@@ -70,20 +70,17 @@ Add additional notes about how to deploy this on a live system
 
 ## Versioning
 
-We use [SemVer](http://semver.org/) for versioning.
+ We use GitHub for versioning.
 
 ## Authors
 
 * **Chris Perrins** - *Initial work* - [christophperrins](https://github.com/christophperrins)
+* **Fatima Sheikh-Nur - [fjylni](https://github.com/fjylni)
 
 ## License
 
 This project is licensed under the MIT license - see the [LICENSE.md](LICENSE.md) file for details 
 
-*For help in [Choosing a license](https://choosealicense.com/)*
-
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+Trainers: JordanBenbelaid, AnoushLowton, ChristopherYiangyou
