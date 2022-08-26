@@ -9,12 +9,17 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
 
-```
-Give examples
-```
-
+- Install Git Bash to push  to the  Github repository (https://git-scm.com/downloads)
+  
+- Install Eclipse IDE for Java (https://www.eclipse.org/downloads/)
+  
+- Install Java SE Development Kit (https://www.oracle.com/java/technologies/downloads/#java17)
+  
+- Install Apache Maven for testing.(https://maven.apache.org/download.cgi)
+  
+- Install MySQL Community with Workbench to create and access databases.
+  https://dev.mysql.com/downloads/installer/  
 ### Installing
 
 A step by step series of examples that tell you how to get a development env running
